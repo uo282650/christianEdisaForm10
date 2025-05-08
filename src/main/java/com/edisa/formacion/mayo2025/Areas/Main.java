@@ -1,4 +1,4 @@
-package com.edisa.formacion.mayo2025;
+package com.edisa.formacion.mayo2025.Areas;
 
 //import java.util.InputMismatchException;
 //import java.util.Scanner;

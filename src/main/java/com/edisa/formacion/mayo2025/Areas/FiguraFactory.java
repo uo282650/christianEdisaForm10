@@ -1,4 +1,4 @@
-package com.edisa.formacion.mayo2025;
+package com.edisa.formacion.mayo2025.Areas;
 
 public class FiguraFactory {
     public static final String CIRCLE = "Circle";
