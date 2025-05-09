@@ -5,7 +5,6 @@ import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
 
 
-
 public class Main extends Application<DropWizardConfiguration> {
     public static void main(String[] args) throws Exception {
         new Main().run(args);
